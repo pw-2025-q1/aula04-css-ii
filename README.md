@@ -1,7 +1,3 @@
-# Template para projetos de PW no GitHub Codespaces
+# Aula 04 - CSS
 
-Esse template está configurado para criar um ambiente com as principais dependências que precisamos na aula. Para criar um novo projeto no ambiente:
-
-* Crie um novo repositório usando o template;
-* Inicie um codespace a partir do novo repositório;
-* Para criar um novo projeto NPM, digite `npm init` e siga o wizard
+Exemplo de implementação do layout "Holy Grail" com Grid Layout e design responsivo.
